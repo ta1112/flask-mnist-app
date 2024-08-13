@@ -18,7 +18,7 @@ Jinja2==3.1.2
 line-bot-sdk==3.11.0
 Markdown==3.4.4
 MarkupSafe==2.1.3
-numpy==1.25.2
+numpy==1.24.3
 oauthlib==3.2.2
 pillow==10.0.0
 protobuf==4.24.4
@@ -32,7 +32,7 @@ tensorflow-cpu==2.13.0
 termcolor==2.3.0
 urllib3==2.0.5
 Werkzeug==2.3.7
-webencodings
+webencodings==0.5.1
 blinker>=1.6.2
 packaging
 aiohttp==3.9.5
@@ -47,3 +47,6 @@ tensorboard-data-server<0.8.0,>=0.7.0
 wheel>=0.26
 astunparse>=1.6.0
 flatbuffers>=23.1.21
+google-pasta>=0.1.1
+keras<2.14,>=2.13.1
+libclang>=13.0.0
