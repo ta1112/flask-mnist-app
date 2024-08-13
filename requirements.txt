@@ -28,7 +28,7 @@ requests==2.31.0
 scipy==1.11.2
 six==1.16.0
 tensorboard==2.13.0
-tensorflow-cpu==2.13.0
+#tensorflow-cpu==2.13.0
 termcolor==2.3.0
 urllib3==2.0.5
 Werkzeug==2.3.7
@@ -50,3 +50,4 @@ flatbuffers>=23.1.21
 google-pasta>=0.1.1
 keras>=2.13.1,<2.14
 libclang>=13.0.0
+typing-extensions>=4.6.1
