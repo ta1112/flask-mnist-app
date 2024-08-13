@@ -28,7 +28,7 @@ requests==2.31.0
 scipy==1.11.2
 six==1.16.0
 tensorboard==2.13.0
-#tensorflow-cpu==2.13.0
+tensorflow-cpu==2.13.0
 termcolor==2.3.0
 urllib3==2.0.5
 Werkzeug==2.3.7
@@ -36,7 +36,7 @@ webencodings==0.5.1
 blinker>=1.6.2
 packaging>=21.0
 aiohttp==3.9.5
-pydantic==2.0.3,<3
+pydantic==1.10.11
 aenum>=3.1.11
 python-dateutil>=2.5.3
 Deprecated==1.2.13
@@ -50,4 +50,4 @@ flatbuffers>=23.1.21
 google-pasta>=0.1.1
 keras>=2.13.1,<2.14
 libclang>=13.0.0
-typing-extensions>=4.6.1
+typing-extensions>=3.6.6,<4.6.0
