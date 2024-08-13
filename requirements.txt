@@ -50,4 +50,3 @@ flatbuffers>=23.1.21
 google-pasta>=0.1.1
 keras>=2.13.1,<2.14
 libclang>=13.0.0
-typing-extensions<4.6.1
